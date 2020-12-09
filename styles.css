@@ -88,3 +88,16 @@ main p{
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
 }
+
+main button{
+    padding: 14px 10px;
+    border-radius: 5px;
+    
+}
+
+main button a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
