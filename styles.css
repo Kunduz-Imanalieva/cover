@@ -65,3 +65,26 @@ h3{
     font-size: 25px;
 }
 
+
+main{
+    display: block;
+    padding-left: 16px;
+    padding-right: 16px;
+    text-align: center;
+    width: 640px;
+}
+
+main h2{
+     color: white;
+     font-size: 40px;
+     width: 608px;
+
+
+}
+
+
+main p{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
